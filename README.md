@@ -9,7 +9,7 @@ Usage
 
 Example usage:
 
-    $ heroku buildpacks:add https://github.com/gaumire/heroku-buildpack-mysql
+    $ heroku buildpacks:add https://github.com/bellycard/heroku-buildpack-mysql
 
     $ git push heroku master
     ...
